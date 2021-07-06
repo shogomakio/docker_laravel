@@ -1,13 +1,13 @@
-build:
+docker-build:
 	docker compose up -d --build
 
-up:
+docker-up:
 	docker compose up -d
 
-down:
+docker-down:
 	docker compose down
 
-app:
+app-container:
 	docker compose exec app bash
 
 mysql-root:
