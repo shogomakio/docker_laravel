@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "thumbnail": "assets/thumbnail.png",
+  "id": "com_github_spotify_dial_volume",
+  "name": "Spotify Dial Volume",
+  "author": "",
+  "description": "Control Spotify volume with the Stream Deck+ dial. Turn to adjust volume, press to mute/unmute.",
+  "github": ""
+}
