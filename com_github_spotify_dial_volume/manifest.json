@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "thumbnail": "assets/thumbnail.png",
+  "id": "com_github_spotify_dial_volume",
+  "name": "Spotify Dial Volume",
+  "app-version": "1.5.0-beta",
+  "author": "spotify-dial-volume",
+  "github": "https://github.com/StreamController/PluginTemplate"
+}
