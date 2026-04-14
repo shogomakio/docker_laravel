@@ -35,7 +35,7 @@ class SpotifyDialVolume(PluginBase):
 
         self.register(
             plugin_name="Spotify Dial Volume",
-            github_repo="",
+            github_repo="https://github.com/StreamController/PluginTemplate",
             plugin_version="1.0.0",
             app_version="1.5.0-beta",
         )
